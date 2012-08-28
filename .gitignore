@@ -1,0 +1,15 @@
+#java specific
+*.class
+
+*.classpath
+*.project
+*.jasper
+
+target/
+build/
+dist/
+bin/
+release/
+
+.settings/
+
